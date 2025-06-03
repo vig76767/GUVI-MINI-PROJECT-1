@@ -1,6 +1,6 @@
 # Employee Management System (Spring Boot)
 
-This is a simple Employee Management System built using Spring Boot. It demonstrates basic **CRUD operations** (Create, Read, Update, Delete) on employee data using Spring Boot, Spring Data JPA, and a relational database (H2/MySQL/PostgreSQL).
+This is a simple Employee Management System built using Spring Boot. It demonstrates basic **CRUD operations** (Create, Read, Update, Delete) on employee data using Spring Boot, Spring Data JPA, and a relational database (MySQL).
 
 ## 🛠️ Technologies Used
 
